@@ -1,0 +1,11 @@
+game,variant,seed,timesteps,seen_return_mean,seen_return_std,unseen_return_mean,unseen_return_std,generalization_gap
+coinrun,ppo_frame_stack_large_cnn,1,100000,3.5,4.769696235656738,1.5,3.570714235305786,2.0
+coinrun,ppo_frame_stack_large_cnn,1,200000,1.5,3.570714235305786,1.0,3.0,0.5
+coinrun,ppo_frame_stack_large_cnn,1,300000,0.5,2.1794495582580566,1.5,3.570714235305786,-1.0
+coinrun,ppo_frame_stack_large_cnn,1,400000,3.5,4.769696235656738,2.0,4.0,1.5
+coinrun,ppo_frame_stack_large_cnn,1,500000,4.0,4.898979663848877,5.5,4.9749369621276855,-1.5
+coinrun,ppo_frame_stack_large_cnn,1,600000,2.0,4.0,5.0,5.0,-3.0
+coinrun,ppo_frame_stack_large_cnn,1,700000,3.0,4.582575798034668,3.0,4.582575798034668,0.0
+coinrun,ppo_frame_stack_large_cnn,1,800000,4.5,4.9749369621276855,4.5,4.9749369621276855,0.0
+coinrun,ppo_frame_stack_large_cnn,1,900000,1.0,3.0,1.0,3.0,0.0
+coinrun,ppo_frame_stack_large_cnn,1,1000000,0.5,2.1794495582580566,1.0,3.0,-0.5

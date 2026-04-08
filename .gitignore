@@ -7,8 +7,10 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Run outputs (models, logs, plots, videos)
-runs/
+# Run outputs -- exclude all except the latest run
+runs/procgen_generalization_20260402_*/
+runs/procgen_generalization_20260403_170752/**/ppo_model.zip
+runs/procgen_generalization_20260403_170752/**/*.gif
 
 # OS files
 .DS_Store

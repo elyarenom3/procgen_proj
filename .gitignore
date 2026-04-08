@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+.venv-procgen/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Run outputs (models, logs, plots, videos)
+runs/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

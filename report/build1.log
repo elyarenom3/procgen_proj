@@ -1,0 +1,151 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo)) (./neurips_2024.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./main.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+Overfull \hbox (29.78333pt too wide) in paragraph at lines 27--27
+ [][] 
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 52--53
+\T1/ptm/m/n/10 (+20) We trained three vari-ants on three Proc-gen games.
+
+Underfull \hbox (badness 2376) in paragraph at lines 52--53
+\T1/pcr/m/n/10 ppo_frame_stack \T1/ptm/m/n/10 (+20) vari-ant re-ceives four sta
+cked
+
+Underfull \hbox (badness 2495) in paragraph at lines 52--53
+\T1/ptm/m/n/10 (+20) RGB frames but keeps the same en-coder. The
+
+Underfull \hbox (badness 3118) in paragraph at lines 52--53
+\T1/pcr/m/n/10 ppo_frame_stack_large_cnn \T1/ptm/m/n/10 (+20) vari-ant also re-
+
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc}]
+
+LaTeX Warning: Reference `tab:variants' on page 2 undefined on input line 59.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/ptm/m/n/9 (+20) Temporal
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/ptm/m/n/9 (+20) Encoder
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]\T1/ptm/m/n/9 (+20) One
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]\T1/ptm/m/n/9 (+20) Default
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/ptm/m/n/9 (+20) Frame
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/ptm/m/n/9 (+20) Four
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/ptm/m/n/9 (+20) Default
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/ptm/m/n/9 (+20) Frame
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/ptm/m/n/9 (+20) stack +
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/ptm/m/n/9 (+20) Four
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/ptm/m/n/9 (+20) Deeper
+
+Overfull \hbox (20.89983pt too wide) in paragraph at lines 64--73
+ [][] 
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+[2]
+
+Underfull \hbox (badness 1014) in paragraph at lines 156--159
+\T1/ptm/m/n/10 (+20) er-al-iza-tion on the Proc-Gen bench-mark with sim-
+
+[3] [4 <./figures/learning_curves_coinrun.png> <./figures/learning_curves_dodge
+ball.png> <./figures/learning_curves_starpilot.png> <./figures/final_bars_coinr
+un.png> <./figures/final_bars_dodgeball.png> <./figures/final_bars_starpilot.pn
+g>] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (4 pages, 811228 bytes).
+Transcript written on main.log.

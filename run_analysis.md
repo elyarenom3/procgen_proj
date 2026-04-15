@@ -157,3 +157,13 @@ StarPilot shows consistent improvement with 5x more training, as expected. CoinR
 5. **Game selection matters enormously.** The three games provide complementary signals: CoinRun shows overfitting most clearly, Dodgeball reveals the capacity-generalization tradeoff, and StarPilot demonstrates steady learning with minimal gap. Together they paint a richer picture than any single game could.
 
 ---
+
+## 6. Recommendations
+
+1. **Report peak or time-averaged returns alongside final-checkpoint returns** for CoinRun, where learning instability makes single-timepoint comparisons misleading.
+
+2. **For the project narrative, lead with CoinRun (overfitting) and Dodgeball (architecture matters).** StarPilot serves as a steady-improvement baseline but its near-zero gap at 1M steps provides less generalization signal.
+
+3. **If compute allows, consider a longer run (5M+ steps) on StarPilot alone.** StarPilot's monotonically increasing learning curves suggest it would be the most informative game at higher training budgets, where true overfitting would emerge and variant differences would separate.
+
+4. **Frame stacking needs a larger CNN to be effective on complex games.** The failure of frame stacking on Dodgeball (combined with the success of frame stacking + large CNN) suggests the two modifications are complementary, not independent. Present them this way in the report.

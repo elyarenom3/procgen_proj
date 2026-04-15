@@ -7,7 +7,7 @@ __pycache__/
 *.pyc
 *.pyo
 
-report
+report/*
 
 # Run outputs -- exclude all except the latest run
 runs/procgen_generalization_20260402_*/

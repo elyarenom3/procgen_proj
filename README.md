@@ -1,4 +1,4 @@
-# Procgen Generalization Study (COMP 579 Project)
+# Procgen Generalization Study 
 
 A study of generalization in deep reinforcement learning using the [Procgen benchmark](https://github.com/openai/procgen). We train PPO agents on a fixed set of procedurally generated levels and evaluate them on held-out levels to measure the train/test generalization gap. We compare three architectural variants across three visually distinct games to see whether temporal context (frame stacking) and larger visual encoders help agents learn transferable skills rather than overfitting to specific training layouts.
 
